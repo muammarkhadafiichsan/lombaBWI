@@ -58,9 +58,9 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Pages</a></li>
-                        <li class="nav-item"><a  href="static.html">Blog</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="index.html">Menu Utama</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Tentang Desa</a></li>
+                        <li class="nav-item"><a  href="static.html">Potensi Desa</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Shop</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact</a></li>
                     </ul>
