@@ -2,9 +2,12 @@
     <div class="container">
 
         <a class="navbar-brand" href="#">DESA 4.0</a>
+
         <ul class="list-inline mb-2">
+
+
             <li class="list-inline-item">
-                <a href="#">BERANDA</a>
+                <a href="<?= base_url('menu/profil'); ?>">BERANDA</a>
             </li>
             <li class="list-inline-item">
                 <a href="#">USAHA</a>
@@ -20,12 +23,18 @@
             </li>
             <li class="list-inline-item">
                 <a href="#">KONTAK</a>
+
             </li>
+
         </ul>
+
+
         <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
+
 
     </div>
 </nav>
+
 
 <!-- Masthead -->
 <header class="masthead text-white text-center">
