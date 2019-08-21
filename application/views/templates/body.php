@@ -1,24 +1,27 @@
 <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
-        <a class="navbar-brand" href="#">Start Bootstrap</a>
+        <a class="navbar-brand" href="#">DESA 4.0</a>
              <ul class="list-inline mb-2">
                     <li class="list-inline-item">
-                        <a href="#">About</a>
+                        <a href="#">BERANDA</a>
                     </li>
-                    <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Contact</a>
+                        <a href="#">USAHA</a>
                     </li>
-                    <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Terms of Use</a>
+                        <a href="#">PRODUK</a>
                     </li>
-                    <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Privacy Policy</a>
+                        <a href="#">GALERI</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#">BERITA</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#">KONTAK</a>
                     </li>
                 </ul>
-        <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">Sign In</a>
+        <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
     </div>
 </nav>
 
