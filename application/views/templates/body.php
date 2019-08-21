@@ -23,7 +23,7 @@
             </li>
         </ul>
         <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
-        >>>>>>> dc07fdd8823284f1db5dede91a3dd069fc153365
+
     </div>
 </nav>
 
@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-9 mx-auto">
-                <h1 class="mb-5">Build a landing page for your business or project and generate more leads!</h1>
+                <h1 class="mb-5">Selamat Datang di Desa 4.0</h1>
             </div>
             <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
                 <form>
