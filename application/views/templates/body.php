@@ -27,7 +27,7 @@
 
                 <a  href="<?= base_url('menu/kontak'); ?>">KONTAK</a>
 
-                <a href="#">KONTAK</a>
+                
 
 
             </li>

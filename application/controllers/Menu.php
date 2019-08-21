@@ -12,4 +12,10 @@ class Menu extends CI_Controller
         $this->load->view('templates/header');
         $this->load->view('templates/footer');
     }
+    public function kontak() 
+    {
+    	$this->load->view('menu/kontak');
+        $this->load->view('templates/header');
+        $this->load->view('templates/footer');
+    }
 }
