@@ -1,9 +1,11 @@
-<nav class="navbar navbar-light bg-light static-top">
+<nav class="navbar navbar-light bg-light static-left">
     <div class="container">
 
         <a class="navbar-brand" href="#">DESA 4.0</a>
 
         <ul class="list-inline mb-2">
+
+
 
 
             <li class="list-inline-item">
