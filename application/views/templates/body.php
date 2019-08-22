@@ -1,34 +1,34 @@
-<nav class="navbar navbar-light bg-light static-left">
-    <div class="container">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
 
-        <a class="navbar-brand" href="#">DESA 4.0</a>
+            <li class="nav-item active">
 
-        <ul class="list-inline mb-2">
-
-
-
-
-            <li class="list-inline-item">
-                <a href="<?= base_url('menu/profil'); ?>">BERANDA</a>
+                <a class="navbar-brand" href="#">Beranda<span class="sr-only">(current)</span></a>
             </li>
-            <li class="list-inline-item">
-                <a href="#">USAHA</a>
+            <li class="nav-item active">
+                <a class="navbar-brand" href="#">Usaha</a>
             </li>
-            <li class="list-inline-item">
-                <a href="#">PRODUK</a>
+            <li class="nav-item active">
+                <a class="navbar-brand" href="#">Produk</a>
             </li>
-            <li class="list-inline-item">
-                <a href="#">GALERI</a>
+            <li class="nav-item active">
+                <a class="navbar-brand" href="#">Galeri</a>
             </li>
-            <li class="list-inline-item">
-                <a href="#">BERITA</a>
-            </li>
-            <li class="list-inline-item">
-                <a  href="<?= base_url('menu/kontak'); ?>">KONTAK</a>
+            <li class="nav-item active">
+                <a class="navbar-brand" href="#">Berita</a>
             </li>
 
+            <li class="nav-item active">
+                <a class="navbar-brand" href="#">Kontak</a>
+
+            </li>
         </ul>
-        <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
+
     </div>
 </nav>
 
