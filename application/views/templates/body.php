@@ -24,20 +24,11 @@
                 <a href="#">BERITA</a>
             </li>
             <li class="list-inline-item">
-
                 <a  href="<?= base_url('menu/kontak'); ?>">KONTAK</a>
-
-                
-
-
             </li>
 
         </ul>
-
-
         <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
-
-
     </div>
 </nav>
 
