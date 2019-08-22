@@ -24,7 +24,6 @@ class Auth extends CI_Controller
             $this->load->view('templates/header');
             $this->load->view('templates/footer');
             $this->load->view('templates/body');
-
         } else {
             // validasinya success
             $this->_login();
@@ -35,9 +34,9 @@ class Auth extends CI_Controller
     public function login()
 
     {
-         $this->load->view('auth/login');
-         $this->load->view('templates/auth_header');
-         $this->load->view('templates/auth_footer');
+        $this->load->view('auth/login');
+        $this->load->view('templates/auth_header');
+        $this->load->view('templates/auth_footer');
 
         $email = $this->input->post('email');
         $password = $this->input->post('password');
