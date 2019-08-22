@@ -1,22 +1,126 @@
 
 
 
-<!-- Masthead -->
-<header class="masthead text-white text-center">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-9 mx-auto">
-                <h1 class="mb-5">Selamat Datang di Desa 4.0</h1>
-            </div>
-            <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-                <form>
-
-                </form>
-            </div>
+<section id="intro">
+    <div class="jumbotron masthead">
+      <div class="container">
+        <!-- slider navigation -->
+        <div class="sequence-nav">
+          <div class="prev">
+            <span></span>
+          </div>
+          <div class="next">
+            <span></span>
+          </div>
         </div>
+        <!-- end slider navigation -->
+        <div class="row">
+          <div class="span12">
+            <div id="slider_holder">
+              <div id="sequence">
+                <ul>
+                  <!-- Layer 1 -->
+                  <li>
+                    <div class="info animate-in">
+                      <h2>TIMES INDONESIA</h2>
+                      <br>
+                      <h3>Alat Penggiling Padi</h3>
+                      <p>
+                       Dinas Pertanian Kabupaten Bondowoso, Jawa Timur, akan menganggarkan dana pengadaan Rice Milling Unit atau mesin penggiling padi standar nasional agar segera mendapatkan sertifikat organik internasional. 
+                      </p>
+                     
+                      
+                    </div>
+                    <img class="slider_img animate-in" src=" <?php echo base_url(). "assets/template/front/Serenity/assets/img/slides/sequence/img-1.jpg"; ?>" alt="">
+                  </li>
+                  <!-- Layer 2 -->
+                  <li>
+                    <div class="info">
+                      <h2>TIMES INDONESIA</h2>
+                      <br>
+                      <h3>Penerapan Teknologi</h3>
+                      <p>
+                       Untuk memaksimalkan produktivitas pertanian, Dinas Pertanian (Disperta) Kabupaten Bondowoso menggelar Gelar Teknologi (Geltek) Pertanian yang dilaksanakan di desa Lojajar, Kecamatan Tenggarang, Bondowoso, Jawa Timur. 
+                      </p>
+                      
+                    </div>
+                    <img class="slider_img" src="<?php echo base_url(). "assets/template/front/Serenity/assets/img/slides/sequence/img-2.jpg"; ?>" alt="">
+                  </li>
+                  <!-- Layer 3 -->
+                  <li>
+                    <div class="info">
+                      <h2>TIMES INDONESIA</h2>
+                      <br>
+                      <h3>Panen Padi Organik</h3>
+                      <p>
+                        Kelompok Tani Karya Tani II di Desa Lombok Kulon, Kecamatan Wonosari, Kabupaten Bondowoso, Jawa Timur melakukan panen pada Demplot Padi organik dengan metode Hazton dan SRI. Diketahui hasil panen mencapai 6,2 ton dengan luas lahan satu hektar. 
+                      </p>
+                      
+                    </div>
+                    <img class="slider_img" src="<?php echo base_url(). "assets/template/front/Serenity/assets/img/slides/sequence/img-3.jpg"; ?>" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- Sequence Slider::END-->
+          </div>
+        </div>
+      </div>
     </div>
-</header>
+  </section>
+  <section id="maincontent">
+    <div class="container">
+      <div class="row">
+        <div class="span3 features">
+          <i class="icon-circled icon-32 icon-suitcase left active"></i>
+          <h4>Tentang Dinas Pertanian</h4>
+          <div class="dotted_line">
+          </div>
+          <p class="left">
+            Pembangunan pertanian memiliki peran yang strategis dalam perekonomian di Kabupaten Bondowoso, dimana peran tersebut digambarkan melalui kontribusi yang nyata
+          
+          <a href="<?php echo base_url()."Welcome/tentang"; ?>">Learn more</a></p>
+        </div>
+        <div class="span3 features">
+          <i class="icon-circled icon-32 icon-plane left"></i>
+          <h4>Visi dan Misi</h4>
+          <div class="dotted_line">
+          </div>
+          <p class="left">
+            Sebagaimana dimaklumi bahwa “visi” merupakan gambaran masa depan yang dipilih dan hendak diwujudkan pada kurun waktu tertentu.
+          <a href="<?php echo base_url()."Welcome/profil"; ?>">Learn more</a> </p>
+        </div>
+        <div class="span3 features">
+          <i class="icon-circled icon-32 icon-leaf left"></i>
+          <h4>Tutorial and tips</h4>
+          <div class="dotted_line">
+          </div>
+          <p class="left">
+            Benih bermutu merupakan salah satu komponen teknologi yang penting untuk meningkatkan produksi dan pendapatan usahatani padi.
+          <a href="<?php echo base_url()."Welcome/tips"; ?>">Learn more</a>
+        </div>
+        <div class="span3 features">
+          <i class="icon-circled icon-32 icon-wrench left"></i>
+          <h4>Masuk</h4>
+          <div class="dotted_line">
+          </div>
+          <p class="left">
+            Pastikan Username dan password sesuai dengan data terkini yang ada pada  web Dinas Pertanian Bondowoso. Isi form dengan data yang benar.
+          <a href="<?php echo base_url()."index.php/welcome/login"; ?>" >Learn more</a> </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12">
+          <div class="tagline centered">
+            <div class="row">
+              <div class="span12">
+                <div class="tagline_text">
+                  <h2>KERJA itu,cuma SELINGAN sambil nunggu waktu SHALAT</h2>
+                </div>
+              </div>
+            </div>
+          </div>      
+  </section>
 
 <!-- Icons Grid -->
 <section class="features-icons bg-light text-center">
