@@ -18,8 +18,8 @@
   <body>
     <section id="contact">
        <div class="container">
-           <h3 class="text-center text-uppercase">contact us</h3>
-           <p class="text-center w-75 m-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum purus at sem ornare sodales. Morbi leo nulla, pharetra vel felis nec, ullamcorper condimentum quam.</p>
+           <h3 class="text-center text-uppercase">kontak kami</h3>
+           <p class="text-center w-75 m-auto">Untuk aduan ataupun keluhan dan info tentang Desa 4.0 bisa menghubungi kontak dan official social media dibawa ini</p>
            <div class="row">
              <div class="col-sm-12 col-md-6 col-lg-3 my-5">
                <div class="card border-0">
