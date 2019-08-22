@@ -1,7 +1,7 @@
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +18,7 @@
   <body>
     <section id="contact">
        <div class="container">
-           <h3 class="text-center text-uppercase">kontak kami</h3>
+           <h3 class="text-center text-uppercase">hubungi kami</h3>
            <p class="text-center w-75 m-auto">Untuk aduan ataupun keluhan dan info tentang Desa 4.0 bisa menghubungi kontak dan official social media dibawa ini</p>
            <div class="row">
              <div class="col-sm-12 col-md-6 col-lg-3 my-5">
