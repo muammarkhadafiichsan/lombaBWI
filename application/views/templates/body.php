@@ -1,23 +1,3 @@
-
-
-
-<!-- Masthead -->
-<header class="masthead text-white text-center">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-9 mx-auto">
-                <h1 class="mb-5">Selamat Datang di Desa 4.0</h1>
-            </div>
-            <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-                <form>
-
-                </form>
-            </div>
-        </div>
-    </div>
-</header>
-
 <!-- Icons Grid -->
 <section class="features-icons bg-light text-center">
     <div class="container">
