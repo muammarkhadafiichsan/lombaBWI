@@ -22,8 +22,10 @@
             <li class="nav-item active">
                 <a class="navbar-brand" href="#">Berita</a>
             </li>
+
             <li class="nav-item active">
                 <a class="navbar-brand" href="#">Kontak</a>
+
             </li>
         </ul>
     </div>
