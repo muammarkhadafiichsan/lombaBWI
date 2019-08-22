@@ -26,6 +26,6 @@
       </li>
     </ul>
   </div>
-  <a class="btn btn-primary" href="<?= base_url('auth/login'); ?>">MASUK</a>
+  <a class="btn btn-secondary" href="<?= base_url('auth/login'); ?>">MASUK</a>
 </nav>
 
