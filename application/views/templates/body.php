@@ -1,6 +1,4 @@
-
-
-
+<link rel="apple-touch-icon" sizes="57x57" href="assets/img/apple-icon-57x57.png">
 <!-- Masthead -->
 <header class="masthead text-white text-center">
     <div class="overlay"></div>

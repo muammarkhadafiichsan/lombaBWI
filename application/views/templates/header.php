@@ -3,16 +3,21 @@
 
 <head>
 
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    
+    <link rel="apple-touch-icon" sizes="57x57" href="<?= base_url('assets/'); ?>img/apple-icon-57x57.png">
 
-    <title>Landing Page - Start Bootstrap Theme</title>
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="<?= base_url('assets/'); ?>img/apple-icon-57x57.png">
+
 
     <!-- Bootstrap core CSS -->
     <link href="<?= base_url('assets/'); ?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
 
     <!-- Custom fonts for this template -->
     <link href="<?= base_url('assets/'); ?> vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
