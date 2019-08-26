@@ -21,6 +21,9 @@
         <a class="nav-link" href="#">BERITA</a>
       </li>
       <li class="nav-item active">
+        <a class="nav-link" href="#">GIS</a>
+      </li>
+      <li class="nav-item active">
         <a class="nav-link" href="<?= base_url('menu/kontak'); ?>">HUBUNGI KAMI</a>
       </li>
     </ul>
